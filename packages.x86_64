@@ -28,12 +28,8 @@ lvm2
 man-db
 man-pages
 mkinitcpio
-nano
-nmap
 ntfs-3g
 nvme-cli
-openssh
-openvpn
 parted
 pv
 refind
@@ -49,18 +45,15 @@ tcpdump
 terminus-font
 tmux
 usbutils
-vim
 wireless-regdb
 wireless_tools
 wpa_supplicant
 xdg-utils
 xfsprogs
-zsh
 sddm
 plasma-desktop
 konsole
 dolphin
-kate
 falkon
 xorg-server
 fastfetch
@@ -71,3 +64,4 @@ pipewire-pulse
 wireplumber
 networkmanager
 nm-connection-editor
+flatpak
