@@ -1,0 +1,10 @@
+NAME="Kiruhi OS"
+PRETTY_NAME="Kiruhi OS"
+ID=kiruhi
+ID_LIKE=arch
+ANSI_COLOR="1;35"
+LOGO=kiruhi
+BUILD_ID=rolling
+VERSION_CODENAME=rolling
+VARIANT="Live Edition"
+VARIANT_ID=live

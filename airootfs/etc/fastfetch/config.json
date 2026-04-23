@@ -1,0 +1,27 @@
+{
+    "logo": {
+        "source": "/etc/kiruhi/ascii-logo.txt",
+        "color": {
+            "1": "magenta",
+            "2": "white"
+        }
+    },
+    "display": {
+        "separator": " -> "
+    },
+    "modules": [
+        "os",
+        "kernel",
+        "uptime",
+        "packages",
+        "shell",
+        "display",
+        "de",
+        "wm",
+        "terminal",
+        "cpu",
+        "gpu",
+        "memory",
+        "disk"
+    ]
+}

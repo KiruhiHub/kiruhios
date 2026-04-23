@@ -14,6 +14,8 @@ systemctl enable sddm.service
 # NetworkManager enable
 systemctl enable NetworkManager.service
 
+# Plymouth enable
+
 # Wayland için env (opsiyonel ama önerilen)
 mkdir -p /etc/environment.d
 cat > /etc/environment.d/10-wayland.conf << EOF
